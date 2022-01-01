@@ -1,0 +1,41 @@
+id: MyMod_cal_multi_usrp
+label: cal multi usrp
+category: '[MyMod]'
+templates:
+  imports: |-
+    import MyMod
+  make: MyMod.cal_multi_usrp(${nin}, ${cal_time}, ${en}, ${method})
+  callbacks:
+  - set_en(${en})
+parameters:
+- id: nin
+  label: Num Inputs
+  default: 4
+  dtype: int
+- id: cal_time
+  label: Samples for Cal
+  default: 64
+  dtype: int
+- id: en
+  label: Enable
+  dtype: bool
+  default: 'True'
+  options: ['True', 'False']
+  option_labels: [Enable, Disable]
+- id: method
+  label: Method for Cal
+  dtype: int
+  default: 0
+  options: [0, 1]
+  option_labels: [Real Time, Average Window]
+inputs:
+- label: in
+  domain: stream
+  dtype: complex
+  multiplicity: ${nin}
+outputs:
+- label: out
+  domain: stream
+  dtype: complex
+  multiplicity: ${nin}
+file_format: 1

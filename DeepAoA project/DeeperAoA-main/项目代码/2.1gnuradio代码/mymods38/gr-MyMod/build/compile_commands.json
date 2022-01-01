@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/avg_ff_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/avg_ff_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/avg_ff_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/avg_v_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/avg_v_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/avg_v_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/avg_v_ff_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/avg_v_ff_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/avg_v_ff_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/cal_csi_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/cal_csi_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/cal_csi_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/cal_multi_usrp_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/cal_multi_usrp_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/cal_multi_usrp_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/cor_inf_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/cor_inf_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/cor_inf_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/cor_pac_aoa_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/cor_pac_aoa_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/cor_pac_aoa_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/cp2offs_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/cp2offs_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/cp2offs_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/extract_lts_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/extract_lts_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/extract_lts_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/lts_cor_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/lts_cor_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/lts_cor_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/msg2cv_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/msg2cv_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/msg2cv_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/smooth_pi_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/smooth_pi_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/smooth_pi_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/unwrap_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/unwrap_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/unwrap_impl.cc"
+},
+{
+  "directory": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/build/lib",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_MyMod_EXPORTS -I/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/../include  -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-MyMod.dir/wifi_samples_align_impl.cc.o -c /mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/wifi_samples_align_impl.cc",
+  "file": "/mnt/hgfs/project/DeepAoA/DeeperAoA-main/项目代码/2.1gnuradio代码/mymods38/gr-MyMod/lib/wifi_samples_align_impl.cc"
+}
+]

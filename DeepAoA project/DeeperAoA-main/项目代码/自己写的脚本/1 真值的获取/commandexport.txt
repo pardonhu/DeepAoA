@@ -1,0 +1,2 @@
+export PYTHONPATH=${PYTHONPATH}:/home/lion/Mylidar/Tracking/Xinshuo_PyToolbox
+export PYTHONPATH=${PYTHONPATH}:/home/lion/Mylidar/Tracking/AB3DMOT

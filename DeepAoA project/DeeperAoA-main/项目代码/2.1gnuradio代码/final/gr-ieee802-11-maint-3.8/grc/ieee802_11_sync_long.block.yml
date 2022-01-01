@@ -1,0 +1,55 @@
+id: ieee802_11_sync_long_2
+label: WiFi Sync Long 2
+category: '[IEEE802.11]'
+
+parameters:
+- id: sync_length
+  label: Sync Length
+  default: 240
+  dtype: int
+- id: log
+  label: Log
+  dtype: bool
+  default: 'False'
+  options: ['True', 'False']
+  option_labels: [Enable, Disable]
+- id: debug
+  label: Debug
+  dtype: bool
+  default: 'False'
+  options: ['True', 'False']
+  option_labels: [Enable, Disable]
+- id: nin
+  label: Num Inputs
+  default: 3
+  dtype: int
+- id: raw
+  label: Raw
+  dtype: bool
+  default: 'True'
+  options: ['True', 'False']
+  option_labels: [Enable, Disable]
+inputs:
+- label: in
+  domain: stream
+  dtype: complex
+  multiplicity: ${nin+1}
+  optional: true
+- label: in delayed
+  domain: stream
+  dtype: complex
+  multiplicity: ${nin+1}
+  optional: true
+outputs:
+- label: out
+  domain: stream
+  dtype: complex
+  multiplicity: 1
+- label: pass_out
+  domain: stream
+  dtype: complex
+  multiplicity: ${nin}
+templates:
+  imports: import ieee802_11
+  make: ieee802_11.sync_long(${sync_length}, ${log}, ${debug}, ${nin}, ${raw})    
+file_format: 1
